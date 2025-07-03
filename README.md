@@ -6,6 +6,14 @@ A sleek, modern web app to generate strong, random passwords instantly. Built wi
 
 ---
 
+## 🌟 Live Preview
+
+🔥 Experience it here → [**Live Demo**](https://random-password-generator-ggh8.vercel.app/)
+
+> 🎥 No need to install anything — just click and start exploring!
+
+---
+
 ## ✨ Features
 
 - **One-click password generation**  
